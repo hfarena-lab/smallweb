@@ -22286,6 +22286,7 @@ https://thekeesh.com/feed/
 https://thekevinalexander.com/feed/atom/
 https://thekitchenknowhow.com/feed/atom/
 https://thekitchentoday.com/feed/atom/
+https://www.thekyotoconnection.com/category/life/feed
 https://thel3tterm.com/redux/feed.txt
 https://thelabyrinthoftimesedge.com/feed/
 https://thelandsca.pe/feed/atom/
